@@ -1,27 +1,18 @@
 // write your code below!
-var name, holiday, day
 
-var name ='you'
-var mother= 'Mother/s Day'
-var day = '20'
-var holiday = 'Independence Day'
-
-
+//1. Write a function that returns a value
 function happyHolidays(){
-  return “Happy holidays!”;
+  return "Happy holidays!";
 }
-
-
+//Write a function that takes in a parameter
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
-
-
+//Write a function that takes in multiple parameters
 function happyHolidayTo(holiday, name){
-return `Happy ${holiday}, ${name}!`;
+  return `Happy ${holiday}, ${name}!`;
 }
-
-
-function holidayCountdown(mother, number){
-return `It’s ${number} days until ${mother}!`;
+//Write a function that takes in multiple parameters
+function holidayCountdown(holiday, days){
+  return `It's ${days} days until ${holiday}!`;
 }
