@@ -2,9 +2,9 @@
 var name, holiday, day
 
 var name ='you'
-mother= 'Mother/s Day'
-day = '20'
-holiday = 'Independence Day'
+var mother= 'Mother/s Day'
+var day = '20'
+var holiday = 'Independence Day'
 
 
 function happyHolidays(){
