@@ -2,7 +2,8 @@
 var name, holiday, day
 
 name ='you'
-holiday = ''
+holiday = 'Mother/s Day'
+day = '20'
 
 function happyHolidays() {
   return "Happy holidays!"
