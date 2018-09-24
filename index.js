@@ -1,7 +1,7 @@
 // write your code below!
 var name, holiday, day
 
-name ='you'
+var name ='you'
 mother= 'Mother/s Day'
 day = '20'
 holiday = 'Independence Day'
