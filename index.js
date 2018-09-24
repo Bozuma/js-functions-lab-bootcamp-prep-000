@@ -1,6 +1,9 @@
 // write your code below!
 var name, holiday, day
 
+name ='you'
+holiday = ''
+
 function happyHolidays() {
   return "Happy holidays!"
 }
